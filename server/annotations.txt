@@ -1,0 +1,23 @@
+---------- CONCEITOS BÁSICOS -----------
+GET: Buscar ou listar uma informação
+POST: Criar uma nova informação
+PUT: Atualizar um informação existente
+DELETE: Deletar uma informação existente
+
+// CORPO (Request body): Dados para criação ou atualização de um registro
+// Route Params: Identificar qual recurso eu quero atualizar ou excluir
+// Query Params: Paginação, filtros, ordenação
+
+---------- FUNCIONALIDADES -----------
+
+
+---- CONEXÕES -----
+
+- Rota para listar o total de conexões realizadas;
+- Rota para criar uma nova conexão;
+
+---- Aulas -----
+
+- Rota para criar uma aula;
+- Rota para listar aulas;
+- Filtrar por matéria, dia da semana e horário

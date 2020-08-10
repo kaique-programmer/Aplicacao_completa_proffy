@@ -1,0 +1,1 @@
+declare module '*.png'; // Faz com que o typescript entenda as importações de imagem direto no javascript (jsx)
