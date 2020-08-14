@@ -58,9 +58,9 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## Construído com
 
-* [Dropwizard] (http://www.dropwizard.io/1.0.2/docs/) - A estrutura da web usada
-* [Maven] (https://maven.apache.org/) - Gerenciamento de dependências
-* [ROMA] (https://rometools.github.io/rome/) - Usado para gerar feeds RSS
+* Node.js - Utilizado para o back-end
+* React - Utilizado para a interface web
+* React Native - Usado para construir a versão mobile da aplicação
 
 ## Contribuindo
 
@@ -72,9 +72,7 @@ Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíve
 
 ## Autores
 
-* ** Billie Thompson ** - * Trabalho inicial * - [PurpleBooth] (https://github.com/PurpleBooth)
-
-Veja também a lista de [colaboradores] (https://github.com/your/project/contributors) que participaram deste projeto.
+* ** Kaique Oliveira ** - * - [kaique-programmer] (https://github.com/kaique-programmer)
 
 ## Licença
 
@@ -82,6 +80,5 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 
 ## Agradecimentos
 
-* Gorjeta para qualquer pessoa cujo código foi usado
-* Inspiração
-* etc
+* Rocketseat
+* Diego Fernandes - Rocketseat
