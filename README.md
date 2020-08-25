@@ -1,6 +1,6 @@
-# Aplicacao_completa_proffy
+# Aplicação Completa Proffy
 
-Um parágrafo da descrição do projeto está aqui
+Plataforma de vídeos-aulas, onde as pessoas (proffy), pode se cadastrar para dar aulas ou simplesmente quem tiver o interesse em assistir às aulas, podem ser cadastrar como aluno.
 
 ![Tela Principal](https://github.com/kaique-programmer/Aplicacao_completa_proffy/blob/master/web/.github/recorte_barber.png)
 
@@ -10,53 +10,13 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 
 ### Pré-requisitos
 
-O que você precisa para instalar o software e como instalá-lo
-
-`` ``
-Dar exemplos
-`` ``
-
-### Instalando
-
-Uma série de exemplos passo a passo que mostram como obter um ambiente de desenvolvimento em execução
-
-Diga qual será o passo
-
-`` ``
-Dê o exemplo
-`` ``
-
-E repita
-
-`` ``
-até terminar
-`` ``
-
-Termine com um exemplo de como retirar alguns dados do sistema ou usá-los para uma pequena demonstração
-
-## Executando os testes
-
-Explique como executar os testes automatizados para este sistema
-
-### Divida em testes de ponta a ponta
-
-Explique o que esses testes testam e por que
-
-`` ``
-Dê um exemplo
-`` ``
-
-### E testes de estilo de codificação
-
-Explique o que esses testes testam e por que
-
-`` ``
-Dê um exemplo
-`` ``
+Ter conhecimento das tecnologias utilizadas no projeto.
 
 ## Desdobramento, desenvolvimento
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+* A pasta server está alocando todos arquivos necessários para o back-end - Node.
+* A pasta web aloca todos os arquivos do lado do cliente da aplicação para ser executada nos navegadores  - React. 
+* A pasta mobile aloca todos arquivos referentes ao desenvolvimento da versão mobile do app - React Native.
 
 ## Construído com
 
@@ -66,11 +26,14 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## Contribuindo
 
-Leia [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
+* Faça um fork desse repositório;
+* Cria uma branch com a sua feature: git checkout -b minha-feature;
+* Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
+* Faça push para a sua branch: git push origin minha-feature.
 
 ## Controle de versão
 
-Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíveis, consulte as [tags neste repositório] (https://github.com/your/project/tags).
+Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíveis, consulte as [Aplicacao_completa_proffy] (https://github.com/kaique-programmer/Aplicacao_completa_proffy).
 
 ## Autores
 
