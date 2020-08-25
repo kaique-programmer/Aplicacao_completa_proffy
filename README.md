@@ -2,6 +2,8 @@
 
 Um parágrafo da descrição do projeto está aqui
 
+![Tela Principal](https://github.com/kaique-programmer/Aplicacao_completa_proffy/blob/master/web/.github/recorte_barber.png)
+
 ## Começando
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
